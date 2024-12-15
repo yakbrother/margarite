@@ -1,6 +1,6 @@
 # 🚀 Margarite
 
-## an Astro + Tailwind + DaisyUI Boilerplate
+## Yet Another Astro + Tailwind + DaisyUI Boilerplate
 
 A modern, lightweight boilerplate combining the power of Astro with the utility of Tailwind CSS and the beautiful components of DaisyUI.
 
@@ -29,8 +29,8 @@ Tim Eaton
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/astro-margarite-boilerplate.git
-cd astro-margarite-boilerplate
+git clone https://github.com/yakbrother/margarite.git
+cd margarite
 ```
 
 2. Install dependencies:
